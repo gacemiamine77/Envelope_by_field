@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Envelope_By_Field" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
